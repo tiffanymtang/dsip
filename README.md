@@ -7,3 +7,6 @@ This is a test change.
 This change resolves my simple issue.
 
 This is a remote change.
+
+
+This is a local change.
